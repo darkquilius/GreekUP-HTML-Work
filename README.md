@@ -1,2 +1,4 @@
-# HW-Week1
-Homework.... for week 1.....
+# Cleaning Up Code
+  In week one of my coding academy at Georgia Tech, I learned alot. first, we started with console commands, bash, setting up git repositories. In the middle of the week we learned how to write our own HTML and CSS codes. 
+  This assignment accents what we learned using HTML and CSS. Alot of what needed to be done in this assignment had to do with the semantics of the code. programmers want descriptive semantics when looking at a code. Not only does it make it easier on the programmer, but it also improves search engine results.
+  Clumping of different classes was another key element. In the original code, there was alot of repetative lines that could be cleaned up by simply combining the attributes into one class. The other way that this problem could have been solved is by putting commas at the end of their respective attributes and combing them this way (we learned this later in class so i did not do it this way).
